@@ -1,0 +1,55 @@
+
+body {
+	background: url("../images/image2.png");/*no-repeat center center fixed;*/ 
+    color: rgb(22, 20, 20);
+	text-align: left;
+	font-size: bold; 
+
+}
+
+.heading{
+    margin-top: 40px;
+	font-size: 80px;
+	font-family: 'Monoton';
+}
+
+#game-start{
+    margin-top: 70px;
+	font-size: 40px;
+	font-family: 'Press Start 2P', cursive;
+}
+
+#countdown {
+	font-size: 20px;
+	font-weight: bold;
+	font-family: 'Press Start 2P', cursive;
+    color: rgb(201, 12, 12);
+}
+
+#game-done {
+	font-size: 40px;
+	font-family: 'Press Start 2P', cursive;
+	
+}
+
+.lead2 {
+	font-size: 30px;
+	font-weight: bold;
+    color: rgb(235, 8, 54);
+}
+
+.questions {
+    font-size: 26px;
+    color: rgb(5, 5, 4);
+}
+
+.text-mysize {
+	font-size: 20px;
+	font-size: bold;
+}
+
+#game-restart {
+	font-family: 'Press Start 2P', cursive;
+
+}
+ 
